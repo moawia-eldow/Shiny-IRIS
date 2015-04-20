@@ -6,11 +6,11 @@ This is a Shiny application developed as part of the project for development dat
 
 The application used the IRIS dataset to plot two varibles.
 
-- There a deployment of this application at shinyapps: 
+- There is a deployment of this application at shinyapps: 
 
       https://meldow.shinyapps.io/Shiny_IRIS/
       
-- There a presentation about this application at Rpubs: 
+- There is a presentation about this application at Rpubs: 
 
       https://rpubs.com/meldow/Shiny-IRIS
 
