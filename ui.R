@@ -23,10 +23,6 @@ shinyUI(pageWithSidebar(
                      "Sepal width"  = "Sepal.Width"))
   ),
   
-  
-  
-  
-  
   mainPanel(
     tabsetPanel(
       tabPanel("Plot", 
